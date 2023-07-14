@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="1337.x">
- <img width=150px height=150px src="https://raw.githubusercontent.com/ravindudil5han/1337x/main/lib/icon.jpeg" alt="1337.x"></a>
+ <img width=150px height=150px src="https://raw.githubusercontent.com/ravindudil5han/wabetainfo/main/src/aT2yHF5U_400x400.jpg"></a>
 </p>
 
 <br><br>
