@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="" rel="1337.x">
+ <img width=150px height=150px src="https://raw.githubusercontent.com/ravindudil5han/1337x/main/lib/icon.jpeg" alt="1337.x"></a>
+</p>
+
+<br><br>
+
+
 # WABETAINFO
 
 This Python script utilizes web scraping techniques to gather the latest technology news from the website WABetaInfo (https://wabetainfo.com/). The script extracts information such as article ID, publication time, operating system, title, link, and summary of each news article from the website's front page.
